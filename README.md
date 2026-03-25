@@ -77,30 +77,6 @@ Example:
 ![Dashboard Screenshot](images/dashboard.png)
 ```
 
-If you add **1–2 images**, your project looks **much more real**.
 
----
 
-# ⭐ One More Important Tip for You
-
-Devraj, based on your GitHub:
-
-You already have **two strong projects**
-
-1️⃣ **AgriIntel – ML prediction system**
-2️⃣ **Uber Ride Demand Analytics – BI dashboard**
-
-That is **good**, but to impress recruiters you need **4–5 strong projects**.
-
-The **ideal Data Science portfolio** looks like this:
-
-| Project                  | Skill Demonstrated   |
-| ------------------------ | -------------------- |
-| ML prediction system     | Machine Learning     |
-| BI dashboard project     | Data Analytics       |
-| SQL analytics project    | Data querying        |
-| NLP project              | AI / text processing |
-| End-to-end ML deployment | Production ML        |
-
----
 
